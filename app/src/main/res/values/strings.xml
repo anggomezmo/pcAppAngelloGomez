@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">angello-gomez-pcapp</string>
+    <string name="tituloApp">SISTEMA DE REGISTRO DE COMPUTADORAS</string>
+    <string name="ingreseCpu">Referencia de procesador</string>
+    <string name="ingreseGpu">Referencia de tarjeta de video</string>
+    <string name="ingreseAlmacenamiento">Referencia de unidad de almacenamiento</string>
+    <string name="ingreseMarca">Marca del computador</string>
+    <string name="btnRegistrar">Registrar computador</string>
+    <string name="txtResultado">-</string>
+</resources>
